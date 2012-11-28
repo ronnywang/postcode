@@ -1,0 +1,15 @@
+# link=https://github.com/ronnywang/postcode
+# data_time=2012-09-11
+# data_source=http://www.post.gov.tw/post/internet/down/index.html?ID=190108
+# description=村里文字中英對照表
+#ZIPCODE,CITY,AREA,AREA1,VILLAGE,VILLAGE1,RMK,RMKC,EVILLAGE
+100,台北市,中正區,台北市,三愛里,三愛里,1,0,"San’ai Vil."
+100,台北市,中正區,台北市,文北里,文北里,1,0,"Wenbei Vil."
+100,台北市,中正區,台北市,文盛里,文盛里,0,0,"Wensheng Vil."
+100,台北市,中正區,台北市,文祥里,文祥里,0,0,"Wenxiang Vil."
+100,台北市,中正區,台北市,水源里,水源里,1,0,"Shuiyuan Vil."
+100,台北市,中正區,台北市,永功里,永功里,0,0,"Yonggong Vil."
+100,台北市,中正區,台北市,永昌里,永昌里,1,0,"Yongchang Vil."
+100,台北市,中正區,台北市,光復里,光復里,1,0,"Guangfu Vil."
+100,台北市,中正區,台北市,幸市里,幸市里,0,0,"Xingshi Vil."
+100,台北市,中正區,台北市,幸福里,幸福里,1,0,"Xingfu Vil."

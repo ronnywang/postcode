@@ -1,0 +1,118 @@
+{
+    "link": "https:\/\/github.com\/ronnywang\/postcode",
+    "data_time": "2012-09-11",
+    "data_source": "http:\/\/www.post.gov.tw\/post\/internet\/down\/index.html?ID=190108",
+    "description": "村里文字中英對照表",
+    "data": [
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "三愛里",
+            "VILLAGE1": "三愛里",
+            "RMK": "1",
+            "RMKC": "0",
+            "EVILLAGE": "San’ai Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "文北里",
+            "VILLAGE1": "文北里",
+            "RMK": "1",
+            "RMKC": "0",
+            "EVILLAGE": "Wenbei Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "文盛里",
+            "VILLAGE1": "文盛里",
+            "RMK": "0",
+            "RMKC": "0",
+            "EVILLAGE": "Wensheng Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "文祥里",
+            "VILLAGE1": "文祥里",
+            "RMK": "0",
+            "RMKC": "0",
+            "EVILLAGE": "Wenxiang Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "水源里",
+            "VILLAGE1": "水源里",
+            "RMK": "1",
+            "RMKC": "0",
+            "EVILLAGE": "Shuiyuan Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "永功里",
+            "VILLAGE1": "永功里",
+            "RMK": "0",
+            "RMKC": "0",
+            "EVILLAGE": "Yonggong Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "永昌里",
+            "VILLAGE1": "永昌里",
+            "RMK": "1",
+            "RMKC": "0",
+            "EVILLAGE": "Yongchang Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "光復里",
+            "VILLAGE1": "光復里",
+            "RMK": "1",
+            "RMKC": "0",
+            "EVILLAGE": "Guangfu Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "幸市里",
+            "VILLAGE1": "幸市里",
+            "RMK": "0",
+            "RMKC": "0",
+            "EVILLAGE": "Xingshi Vil."
+        },
+        {
+            "ZIPCODE": "100",
+            "CITY": "台北市",
+            "AREA": "中正區",
+            "AREA1": "台北市",
+            "VILLAGE": "幸福里",
+            "VILLAGE1": "幸福里",
+            "RMK": "1",
+            "RMKC": "0",
+            "EVILLAGE": "Xingfu Vil."
+        }
+    ]
+}
