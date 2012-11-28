@@ -1,0 +1,14 @@
+# link=https://github.com/ronnywang/postcode
+# data_time=2012-09-11
+# data_source=http://www.post.gov.tw/post/internet/down/index.html?ID=190108
+# description=路街中英對照
+#ZIPCODE,ROAD,ROAD_NO,EROAD,CITY,AREA,RKEY,ROAD1,ROADA,PHON,ZIP3A
+100,八德路１段,009631,"Sec. 1, Bade Rd.",台北市,中正區,BDLYD,八,八,ㄅ,100
+100,三元街,013081,"Sanyuan St.",台北市,中正區,SYJ,三,三,ㄙ,100
+100,大埔街,052891,"Dapu St.",台北市,中正區,DPJ,大,大,ㄉ,100
+100,中山北路１段,086521,"Sec. 1, Zhongshan N. Rd.",台北市,中正區,ZSBLYD,中,中,ㄓ,100
+100,中山南路,087271,"Zhongshan S. Rd.",台北市,中正區,ZSNL,中,中,ㄓ,100
+100,中華路１段,107911,"Sec. 1, Zhonghua Rd.",台北市,中正區,ZHLYD,中,中,ㄓ,100
+100,中華路２段,107971,"Sec. 2, Zhonghua Rd.",台北市,中正區,ZHLED,中,中,ㄓ,100
+100,丹陽街,115531,"Danyang St.",台北市,中正區,DYJ,丹,丹,ㄉ,100
+100,仁愛路１段,129271,"Sec. 1, Ren’ai Rd.",台北市,中正區,RALYD,仁,仁,ㄖ,100
