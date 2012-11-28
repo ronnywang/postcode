@@ -43,7 +43,7 @@ $columns = array(
     'EXP',
     'RMK',
     );
-$output = trim(`dbfdump.pl ZIP3.DBF | iconv -f big5 -t utf-8`);
+$output = trim(`dbfdump.pl ZIP3.DBF | piconv -f big5 -t utf-8`);
 $csv_fp = fopen('zip3.csv', 'w');
 $json_fp = fopen('zip3.json', 'w');
 
