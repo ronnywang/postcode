@@ -47,13 +47,25 @@ $output = trim(`dbfdump.pl ZIP3.DBF | iconv -f big5 -t utf-8`);
 $csv_fp = fopen('zip3.csv', 'w');
 $json_fp = fopen('zip3.json', 'w');
 
-$ret = [];
+$json = new StdClass;
+$json->link = 'https://github.com/ronnywang/postcode';
+$json->data_time = '2012-09-11';
+$json->data_source = 'http://www.post.gov.tw/post/internet/down/index.html?ID=190108';
+$json->description = '三碼郵遞區號';
+$json->data = [];
+
+fwrite($csv_fp, '# link=https://github.com/ronnywang/postcode' . PHP_EOL);
+fwrite($csv_fp, '# data_time=2012-09-11' . PHP_EOL);
+fwrite($csv_fp, '# data_source=http://www.post.gov.tw/post/internet/down/index.html?ID=190108' . PHP_EOL);
+fwrite($csv_fp, '# description=三碼郵遞區號' . PHP_EOL);
 fwrite($csv_fp, '#');
 fputcsv($csv_fp, $columns);
 foreach (explode("\n", trim($output)) as $line) {
     $terms = explode(':', trim($line));
 
     fputcsv($csv_fp, $terms);
-    $ret[] = array_combine($columns, $terms);
+    $json->data[] = array_combine($columns, $terms);
 }
-fwrite($json_fp, json_encode($ret, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+fwrite($json_fp, json_encode($json, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+$json->data = array_slice($json->data, 0, 10);
+file_put_contents('zip3.sample.json', json_encode($json, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));

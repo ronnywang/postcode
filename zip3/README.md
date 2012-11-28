@@ -1,7 +1,6 @@
-- ZIP3.CDX 郵局原始檔案(格式 ver. 5 (FoxPro), 更新時間 2012/9/11)
-- ZIP3.DBF 郵局原始檔案
-- ZIP3.FRT 郵局原始檔案
-- ZIP3.FRX 郵局原始檔案
-- zip3.json 轉換出來的 json 檔
-- zip3.csv 轉換出來的 csv 檔
+- ZIP3.* 郵局原始檔案(格式 ver. 5 (FoxPro), 更新時間 2012/9/11)
+- zip3.json.gz 轉換出來的 json 檔
+- zip3.csv.gz 轉換出來的 csv 檔
+- zip3.sample.json json 檔範例，只列出十筆
+- zip3.sample.csv csv 檔範例，只列出十筆
 - convert.php 轉換程式
