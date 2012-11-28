@@ -1,0 +1,8 @@
+- RALL1.CDX.gz 郵局原始檔案(格式 ver. 5 (FoxPro), 更新時間 2012/9/11)
+- RALL1.DBF.gz 郵局原始檔案
+- rall.json.gz 轉換出來的 json 檔(檔案太大，因此壓縮)
+- rall.sample.json 只列出 10 筆的 sample 檔，讓大家可以看看資料長什麼樣子
+- rall.csv.gz 轉換出來的 csv 檔(檔案太大，因此壓縮)
+- rall.sample.csv 只列出 10 筆的 sample 檔，讓大家可以看看資料長什麼樣子
+- convert.php 轉換程式
+- convert.php
