@@ -8,3 +8,5 @@ postcode
 不過因為郵局放的資料是 .exe 的 rar 壓縮檔，而且解開來是 Big5 的 dbase 檔案，對很多人來說沒那麼方便，所以我這邊另外放一份 json 和 csv。
 
 若是之後有更新而我這邊沒有即時更新到的話，歡迎送 issue 通知我或者是幫我改好然後 pull request 讓我 merge 進去吧。
+
+- zip3 三碼郵遞區號
