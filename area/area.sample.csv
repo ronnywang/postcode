@@ -1,0 +1,15 @@
+# link=https://github.com/ronnywang/postcode
+# data_time=2012-09-11
+# data_source=http://www.post.gov.tw/post/internet/down/index.html?ID=190108
+# description=鄉鎮縣市中英對照
+#ZIPCODE,CITY,AREA,ECITYAREA,TCITYAREA,HCITYAREA,PCITYAREA
+207,新北市,萬里區,"Wanli Dist., New Taipei City","Wanli Dist., New Taipei City","Wanli Dist., New Taipei City","Wanli Dist., New Taipei City"
+208,新北市,金山區,"Jinshan Dist., New Taipei City","Jinshan Dist., New Taipei City","Jinshan Dist., New Taipei City","Jinshan Dist., New Taipei City"
+209,連江縣,南竿鄉,"Nangan Township, Lienchiang County","Nangan Township, Lienchiang County","Nangan Township, Lienchiang County","Nangan Township, Lienchiang County"
+210,連江縣,北竿鄉,"Beigan Township, Lienchiang County","Beigan Township, Lienchiang County","Beigan Township, Lienchiang County","Beigan Township, Lienchiang County"
+211,連江縣,莒光鄉,"Juguang Township, Lienchiang County","Jyuguang Township, Lienchiang County","Juguang Township, Lienchiang County","Jiuguang Township, Lienchiang County"
+212,連江縣,東引鄉,"Dongyin Township, Lienchiang County","Dongyin Township, Lienchiang County","Dongyin Township, Lienchiang County","Dungyin Township, Lienchiang County"
+220,新北市,板橋區,"Banqiao Dist., New Taipei City","Banciao Dist., New Taipei City","Banqiao Dist., New Taipei City","Banchiau Dist., New Taipei City"
+221,新北市,汐止區,"Xizhi Dist., New Taipei City","Sijhih Dist., New Taipei City","Xizhi Dist., New Taipei City","Shijr Dist., New Taipei City"
+222,新北市,深坑區,"Shenkeng Dist., New Taipei City","Shenkeng Dist., New Taipei City","Shenkeng Dist., New Taipei City","Shenkeng Dist., New Taipei City"
+223,新北市,石碇區,"Shiding Dist., New Taipei City","Shihding Dist., New Taipei City","Shiding Dist., New Taipei City","Shding Dist., New Taipei City"

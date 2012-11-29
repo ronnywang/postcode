@@ -1,0 +1,1438 @@
+{
+    "link": "https:\/\/github.com\/ronnywang\/postcode",
+    "data_time": "2012-09-11",
+    "data_source": "http:\/\/www.post.gov.tw\/post\/internet\/down\/index.html?ID=190108",
+    "description": "鄉鎮縣市及各種別稱中英對照",
+    "data": [
+        {
+            "ZIPCODE": "207",
+            "CITY": "新北市",
+            "AREA": "萬里區",
+            "ECITYAREA": "Wanli Dist., New Taipei City",
+            "TCITYAREA": "Wanli Dist., New Taipei City",
+            "HCITYAREA": "Wanli Dist., New Taipei City",
+            "PCITYAREA": "Wanli Dist., New Taipei City",
+            "ALIAS": [
+                {
+                    "CITYAREA": "新北市萬里區",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北萬里區",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "新北萬里區",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "萬里區",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北縣萬里鄉",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "新北萬里鄉",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北市萬里鄉",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "萬里鄉",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北縣萬里區",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北縣萬里區",
+                    "CITY": "新北市",
+                    "AREA": "萬里區",
+                    "ECITYAREA": "Wanli Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Wanli Dist.",
+                    "AREA1": "萬里區",
+                    "RMK": "V"
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "208",
+            "CITY": "新北市",
+            "AREA": "金山區",
+            "ECITYAREA": "Jinshan Dist., New Taipei City",
+            "TCITYAREA": "Jinshan Dist., New Taipei City",
+            "HCITYAREA": "Jinshan Dist., New Taipei City",
+            "PCITYAREA": "Jinshan Dist., New Taipei City",
+            "ALIAS": [
+                {
+                    "CITYAREA": "新北金山",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市金山",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市金山區",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "金山區",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北金山區",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北市金山",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北市金山區",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北金山",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣金山",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣金山鄉",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "金山鄉",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北金山鄉",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣金山",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣金山鄉",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣金山區",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣金山區",
+                    "CITY": "新北市",
+                    "AREA": "金山區",
+                    "ECITYAREA": "Jinshan Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Jinshan Dist.",
+                    "AREA1": "金山區",
+                    "RMK": ""
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "209",
+            "CITY": "連江縣",
+            "AREA": "南竿鄉",
+            "ECITYAREA": "Nangan Township, Lienchiang County",
+            "TCITYAREA": "Nangan Township, Lienchiang County",
+            "HCITYAREA": "Nangan Township, Lienchiang County",
+            "PCITYAREA": "Nangan Township, Lienchiang County",
+            "ALIAS": [
+                {
+                    "CITYAREA": "連江縣南竿",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣馬祖南竿",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖南竿",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江南竿",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "南竿",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江南竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣南竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "南竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖南竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "南竿鄉",
+                    "ECITYAREA": "Nangan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Nangan Township",
+                    "AREA1": "南竿鄉",
+                    "RMK": ""
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "210",
+            "CITY": "連江縣",
+            "AREA": "北竿鄉",
+            "ECITYAREA": "Beigan Township, Lienchiang County",
+            "TCITYAREA": "Beigan Township, Lienchiang County",
+            "HCITYAREA": "Beigan Township, Lienchiang County",
+            "PCITYAREA": "Beigan Township, Lienchiang County",
+            "ALIAS": [
+                {
+                    "CITYAREA": "連江縣馬祖北竿",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣北竿",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江北竿",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖北竿",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北竿",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江北竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣北竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖北竿鄉",
+                    "CITY": "連江縣",
+                    "AREA": "北竿鄉",
+                    "ECITYAREA": "Beigan Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Beigan Township",
+                    "AREA1": "北竿鄉",
+                    "RMK": ""
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "211",
+            "CITY": "連江縣",
+            "AREA": "莒光鄉",
+            "ECITYAREA": "Juguang Township, Lienchiang County",
+            "TCITYAREA": "Jyuguang Township, Lienchiang County",
+            "HCITYAREA": "Juguang Township, Lienchiang County",
+            "PCITYAREA": "Jiuguang Township, Lienchiang County",
+            "ALIAS": [
+                {
+                    "CITYAREA": "連江縣馬祖莒光",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣莒光",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江莒光",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖莒光",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江莒光鄉",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣莒光鄉",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "莒光鄉",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "莒光",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖莒光鄉",
+                    "CITY": "連江縣",
+                    "AREA": "莒光鄉",
+                    "ECITYAREA": "Juguang Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Juguang Township",
+                    "AREA1": "莒光鄉",
+                    "RMK": ""
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "212",
+            "CITY": "連江縣",
+            "AREA": "東引鄉",
+            "ECITYAREA": "Dongyin Township, Lienchiang County",
+            "TCITYAREA": "Dongyin Township, Lienchiang County",
+            "HCITYAREA": "Dongyin Township, Lienchiang County",
+            "PCITYAREA": "Dungyin Township, Lienchiang County",
+            "ALIAS": [
+                {
+                    "CITYAREA": "連江縣東引",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣馬祖東引",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖東引",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江東引",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "東引",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江東引鄉",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "連江縣東引鄉",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "東引鄉",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "東引鄉",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "馬祖東引鄉",
+                    "CITY": "連江縣",
+                    "AREA": "東引鄉",
+                    "ECITYAREA": "Dongyin Township, Lienchiang County",
+                    "ECITY": "Lienchiang County",
+                    "EAREA": "Dongyin Township",
+                    "AREA1": "東引鄉",
+                    "RMK": ""
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "220",
+            "CITY": "新北市",
+            "AREA": "板橋區",
+            "ECITYAREA": "Banqiao Dist., New Taipei City",
+            "TCITYAREA": "Banciao Dist., New Taipei City",
+            "HCITYAREA": "Banqiao Dist., New Taipei City",
+            "PCITYAREA": "Banchiau Dist., New Taipei City",
+            "ALIAS": [
+                {
+                    "CITYAREA": "北市板橋",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市板橋區",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北市板橋區",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北板橋區",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "板橋區",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市板橋",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北板橋",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣板橋",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣板橋市",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣板橋市",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北板橋市",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "板橋市",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣板橋",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北板橋",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "板市",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣板橋區",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣板橋區",
+                    "CITY": "新北市",
+                    "AREA": "板橋區",
+                    "ECITYAREA": "Banqiao Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Banqiao Dist.",
+                    "AREA1": "板橋區",
+                    "RMK": ""
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "221",
+            "CITY": "新北市",
+            "AREA": "汐止區",
+            "ECITYAREA": "Xizhi Dist., New Taipei City",
+            "TCITYAREA": "Sijhih Dist., New Taipei City",
+            "HCITYAREA": "Xizhi Dist., New Taipei City",
+            "PCITYAREA": "Shijr Dist., New Taipei City",
+            "ALIAS": [
+                {
+                    "CITYAREA": "汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北市汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北市汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北縣汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北縣汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北市汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "北市汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北市汐止",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北市汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北市汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北市汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "台北汐止區",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北市汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北汐止市",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                },
+                {
+                    "CITYAREA": "新北汐止鎮",
+                    "CITY": "新北市",
+                    "AREA": "汐止區",
+                    "ECITYAREA": "Xizhi Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Xizhi Dist.",
+                    "AREA1": "汐止區",
+                    "RMK": ""
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "222",
+            "CITY": "新北市",
+            "AREA": "深坑區",
+            "ECITYAREA": "Shenkeng Dist., New Taipei City",
+            "TCITYAREA": "Shenkeng Dist., New Taipei City",
+            "HCITYAREA": "Shenkeng Dist., New Taipei City",
+            "PCITYAREA": "Shenkeng Dist., New Taipei City",
+            "ALIAS": [
+                {
+                    "CITYAREA": "新北市深坑區",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "深坑區",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北市深坑區",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "新北深坑區",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北縣深坑鄉",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "深坑鄉",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北縣深坑鄉",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北深坑鄉",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北縣深坑區",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北縣深坑區",
+                    "CITY": "新北市",
+                    "AREA": "深坑區",
+                    "ECITYAREA": "Shenkeng Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shenkeng Dist.",
+                    "AREA1": "深坑區",
+                    "RMK": "V"
+                }
+            ]
+        },
+        {
+            "ZIPCODE": "223",
+            "CITY": "新北市",
+            "AREA": "石碇區",
+            "ECITYAREA": "Shiding Dist., New Taipei City",
+            "TCITYAREA": "Shihding Dist., New Taipei City",
+            "HCITYAREA": "Shiding Dist., New Taipei City",
+            "PCITYAREA": "Shding Dist., New Taipei City",
+            "ALIAS": [
+                {
+                    "CITYAREA": "新北石碇區",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北市石碇區",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "新北市石碇區",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "石碇區",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北石碇鄉",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北縣石碇鄉",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北縣石碇鄉",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "石碇鄉",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "台北縣石碇區",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                },
+                {
+                    "CITYAREA": "北縣石碇區",
+                    "CITY": "新北市",
+                    "AREA": "石碇區",
+                    "ECITYAREA": "Shiding Dist., New Taipei City",
+                    "ECITY": "New Taipei City",
+                    "EAREA": "Shiding Dist.",
+                    "AREA1": "石碇區",
+                    "RMK": "V"
+                }
+            ]
+        }
+    ]
+}

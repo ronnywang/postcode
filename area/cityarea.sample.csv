@@ -1,0 +1,15 @@
+# link=https://github.com/ronnywang/postcode
+# data_time=2012-09-11
+# data_source=http://www.post.gov.tw/post/internet/down/index.html?ID=190108
+# description=鄉鎮縣市別稱中英對照
+#ZIPCODE,CITYAREA,CITY,AREA,ECITYAREA,ECITY,EAREA,AREA1,RMK
+100,北市中正區,台北市,中正區,"Zhongzheng Dist., Taipei City","Taipei City","Zhongzheng Dist.",台北市,V
+100,台北市中正區,台北市,中正區,"Zhongzheng Dist., Taipei City","Taipei City","Zhongzheng Dist.",台北市,V
+100,台北中正區,台北市,中正區,"Zhongzheng Dist., Taipei City","Taipei City","Zhongzheng Dist.",台北市,V
+100,台北縣中正區,台北市,中正區,"Zhongzheng Dist., Taipei City","Taipei City","Zhongzheng Dist.",台北市,V
+103,大同區,台北市,大同區,"Datong Dist., Taipei City","Taipei City","Datong Dist.",台北市,V
+103,台北市大同區,台北市,大同區,"Datong Dist., Taipei City","Taipei City","Datong Dist.",台北市,V
+103,北市大同區,台北市,大同區,"Datong Dist., Taipei City","Taipei City","Datong Dist.",台北市,V
+103,台北大同區,台北市,大同區,"Datong Dist., Taipei City","Taipei City","Datong Dist.",台北市,V
+103,台北縣大同區,台北市,大同區,"Datong Dist., Taipei City","Taipei City","Datong Dist.",台北市,V
+104,北市中山區,台北市,中山區,"Zhongshan Dist., Taipei City","Taipei City","Zhongshan Dist.",台北市,V
