@@ -1,0 +1,29 @@
+# link=https://github.com/ronnywang/postcode
+# data_time=2012-09-11
+# data_source=http://www.post.gov.tw/post/internet/down/index.html?ID=190108
+# description=縣市中英對照表
+#CITY,ZIPCODE,NO,ECITY,ECITY1
+宜蘭縣,,01,"Yilan County",Yilan
+基隆市,200,02,"Keelung City",Keelung
+台北市,100,03,"Taipei City",Taipei
+新北市,220,04,"New Taipei City","New Taipei"
+桃園縣,,05,"Taoyuan County",Taoyuan
+新竹市,300,06,"Hsinchu City",Hsinchu
+新竹縣,,07,"Hsinchu County",Hsinchu
+苗栗縣,,08,"Miaoli County",Miaoli
+台中市,400,09,"Taichung City",Taichung
+南投縣,,10,"Nantou County",Nantou
+彰化縣,,11,"Changhua County",Changhua
+雲林縣,,12,"Yunlin County",Yunlin
+嘉義市,600,13,"Chiayi City",Chiayi
+嘉義縣,,14,"Chiayi County",Chiayi
+台南市,700,15,"Tainan City",Tainan
+高雄市,800,16,"Kaohsiung City",Kaohsiung
+屏東縣,,17,"Pingtung County",Pingtung
+台東縣,,18,"Taitung County",Taitung
+花蓮縣,,19,"Hualien County",Hualien
+澎湖縣,,20,"Penghu County",Penghu
+金門縣,,21,"Kinmen County",Kinmen
+連江縣,,22,"Lienchiang County",Lienchiang
+釣魚台,,23,Diaoyutai,Diaoyutai
+南海島,,24,Nanhai,Nanhai

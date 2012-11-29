@@ -1,0 +1,176 @@
+{
+    "link": "https:\/\/github.com\/ronnywang\/postcode",
+    "data_time": "2012-09-11",
+    "data_source": "http:\/\/www.post.gov.tw\/post\/internet\/down\/index.html?ID=190108",
+    "description": "縣市中英對照表",
+    "data": [
+        {
+            "CITY": "宜蘭縣",
+            "ZIPCODE": "",
+            "NO": "01",
+            "ECITY": "Yilan County",
+            "ECITY1": "Yilan"
+        },
+        {
+            "CITY": "基隆市",
+            "ZIPCODE": "200",
+            "NO": "02",
+            "ECITY": "Keelung City",
+            "ECITY1": "Keelung"
+        },
+        {
+            "CITY": "台北市",
+            "ZIPCODE": "100",
+            "NO": "03",
+            "ECITY": "Taipei City",
+            "ECITY1": "Taipei"
+        },
+        {
+            "CITY": "新北市",
+            "ZIPCODE": "220",
+            "NO": "04",
+            "ECITY": "New Taipei City",
+            "ECITY1": "New Taipei"
+        },
+        {
+            "CITY": "桃園縣",
+            "ZIPCODE": "",
+            "NO": "05",
+            "ECITY": "Taoyuan County",
+            "ECITY1": "Taoyuan"
+        },
+        {
+            "CITY": "新竹市",
+            "ZIPCODE": "300",
+            "NO": "06",
+            "ECITY": "Hsinchu City",
+            "ECITY1": "Hsinchu"
+        },
+        {
+            "CITY": "新竹縣",
+            "ZIPCODE": "",
+            "NO": "07",
+            "ECITY": "Hsinchu County",
+            "ECITY1": "Hsinchu"
+        },
+        {
+            "CITY": "苗栗縣",
+            "ZIPCODE": "",
+            "NO": "08",
+            "ECITY": "Miaoli County",
+            "ECITY1": "Miaoli"
+        },
+        {
+            "CITY": "台中市",
+            "ZIPCODE": "400",
+            "NO": "09",
+            "ECITY": "Taichung City",
+            "ECITY1": "Taichung"
+        },
+        {
+            "CITY": "南投縣",
+            "ZIPCODE": "",
+            "NO": "10",
+            "ECITY": "Nantou County",
+            "ECITY1": "Nantou"
+        },
+        {
+            "CITY": "彰化縣",
+            "ZIPCODE": "",
+            "NO": "11",
+            "ECITY": "Changhua County",
+            "ECITY1": "Changhua"
+        },
+        {
+            "CITY": "雲林縣",
+            "ZIPCODE": "",
+            "NO": "12",
+            "ECITY": "Yunlin County",
+            "ECITY1": "Yunlin"
+        },
+        {
+            "CITY": "嘉義市",
+            "ZIPCODE": "600",
+            "NO": "13",
+            "ECITY": "Chiayi City",
+            "ECITY1": "Chiayi"
+        },
+        {
+            "CITY": "嘉義縣",
+            "ZIPCODE": "",
+            "NO": "14",
+            "ECITY": "Chiayi County",
+            "ECITY1": "Chiayi"
+        },
+        {
+            "CITY": "台南市",
+            "ZIPCODE": "700",
+            "NO": "15",
+            "ECITY": "Tainan City",
+            "ECITY1": "Tainan"
+        },
+        {
+            "CITY": "高雄市",
+            "ZIPCODE": "800",
+            "NO": "16",
+            "ECITY": "Kaohsiung City",
+            "ECITY1": "Kaohsiung"
+        },
+        {
+            "CITY": "屏東縣",
+            "ZIPCODE": "",
+            "NO": "17",
+            "ECITY": "Pingtung County",
+            "ECITY1": "Pingtung"
+        },
+        {
+            "CITY": "台東縣",
+            "ZIPCODE": "",
+            "NO": "18",
+            "ECITY": "Taitung County",
+            "ECITY1": "Taitung"
+        },
+        {
+            "CITY": "花蓮縣",
+            "ZIPCODE": "",
+            "NO": "19",
+            "ECITY": "Hualien County",
+            "ECITY1": "Hualien"
+        },
+        {
+            "CITY": "澎湖縣",
+            "ZIPCODE": "",
+            "NO": "20",
+            "ECITY": "Penghu County",
+            "ECITY1": "Penghu"
+        },
+        {
+            "CITY": "金門縣",
+            "ZIPCODE": "",
+            "NO": "21",
+            "ECITY": "Kinmen County",
+            "ECITY1": "Kinmen"
+        },
+        {
+            "CITY": "連江縣",
+            "ZIPCODE": "",
+            "NO": "22",
+            "ECITY": "Lienchiang County",
+            "ECITY1": "Lienchiang"
+        },
+        {
+            "CITY": "釣魚台",
+            "ZIPCODE": "",
+            "NO": "23",
+            "ECITY": "Diaoyutai",
+            "ECITY1": "Diaoyutai"
+        },
+        {
+            "CITY": "南海島",
+            "ZIPCODE": "",
+            "NO": "24",
+            "ECITY": "Nanhai",
+            "ECITY1": "Nanhai"
+        }
+    ]
+}
